@@ -6,6 +6,7 @@
 #define SCJ_PORT_TEMP               0x02
 #define SCJ_PORT_HUMIDITY           0x03
 #define SCJ_PORT_SOIL_MOISTURE      0x04
+#define SCJ_PORT_DUST               0x05
 
 #define SCJ_PORT_ERR                0xDF
 
